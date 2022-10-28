@@ -1,0 +1,131 @@
+style.css
+
+.nav {
+	float: left;
+	display: block; }
+
+.topnav {
+  background-color: white;
+  overflow: hidden;
+  box-sizing: border-box;
+  list-style: none; }
+
+/* Style the links inside the navigation bar */
+.topnav a {
+  display: block;
+  color: grey;
+  font-size: 18px;
+  text-align: center;
+  padding: 30px 50px;
+  float: left;
+  text-decoration: none; }
+
+/* Change the color of links on hover */
+.topnav a:hover {
+  background-color: lightgrey;
+  color: white; }
+
+.topnav a.active {
+  background-color: lightgrey;
+  color: grey; }
+
+.topnav .icon {
+  display: none; }
+
+
+
+body {
+	background-color: whitesmoke; }
+
+img {
+	width: 650px;
+	height: 700px;
+	float: right; }
+
+
+h1 {
+	color: grey;
+	text-align: center;
+	font-size: 50px;
+	font-family: "Georgia", "Sans";
+	padding-left: 35px;
+	padding-top: 300px; }
+
+
+
+.social {
+	font-size: 25px; }
+
+h6 {
+	font-size: 20px;
+	color: grey; 
+	font-family: "Georgia", "Sans";
+	padding-top: 20px;
+	padding-left: 40px;}
+
+footer {
+	position: fixed;
+	left: 0;
+	bottom: 0;
+	width: 100%;
+	text-align: left; }
+
+
+
+h2 { 
+	color: grey;
+	font-family: "Georgia", "Sans";
+	font-size: 40px;
+	padding-left: 100px;
+	height: 35px; }
+
+p {
+	color: grey;
+	font-size: 18px;
+	font-family: "Georgia", "Sans";
+	padding-top: 150px;
+	padding-left: 65px;
+	height: 210px;
+	float: left; }
+
+.sleds {
+	width: 370px;
+	height: 305px; }
+
+.walk {
+	width: 220px;
+	height: 305px; }
+
+.sail {
+	width: 220px;
+	height: 305px; }
+
+.fish {
+	width: 220px;
+	height: 305px; }
+
+.racing { 
+	width: 360px;
+	height: 305px; }
+
+h5 {
+	position: relative; }
+
+
+h3 { 
+	color: grey;
+	font-family: "Georgia", "Sans";
+	font-size: 40px;
+	padding-left: 100px;}
+
+li {
+	color: grey;
+	font-family: "Georgia", "Sans";
+	font-size: 24px;
+	margin: 30px;
+	float: left;
+	width: 95.27%; }
+
+
+
+
